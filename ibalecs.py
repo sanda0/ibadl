@@ -1,4 +1,3 @@
-from os import link
 from vimeo_downloader import Vimeo
 from tkinter import filedialog
 
