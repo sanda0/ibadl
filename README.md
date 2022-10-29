@@ -15,7 +15,9 @@ ibadl
 
 ```
 
-- windows
+- ## windows
+
+    ## download exe file and double click on it - [click here to download](https://github.com/sanda0/ibadl/raw/master/dist/ibadl)
 
 
 ## how to download video
