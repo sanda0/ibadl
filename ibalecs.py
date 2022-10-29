@@ -14,7 +14,7 @@ help = """
 1 . Dowloader
 2 . exit
 
-----------------------------------------
+------------------------------------------
 """
 
 
@@ -23,6 +23,8 @@ def download(v_list,i):
     f = filedialog.asksaveasfilename(typevariable=".mp4")
     print(f)
     v_list[i].download(filename=str(f))
+    print("Downloade Completed :)\n\n ")
+    print("------------------------------------------")
 
 def convert():
     # https://www.iba.lk/new/play_video.php?link=https://player.vimeo.com/video/756692472&vid=13885
