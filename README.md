@@ -23,7 +23,7 @@ ibadl
 ## how to download video
 ![howto](https://user-images.githubusercontent.com/45274219/198816584-ee15eaf8-9f97-4908-a383-c53da57b81ab.png)
 
-- 1 press 1 and select downloader
+- 1 press 1 and select downloader then paste your video link
 - 2 select video type
 - 3 enter name for video file
 - 4 click save button
